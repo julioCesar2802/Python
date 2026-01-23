@@ -1,0 +1,1 @@
+a = str(input("Digite a palavra desejada: "))
